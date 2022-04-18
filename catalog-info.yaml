@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nest-base
+  annotations:
+    github.com/project-slug: dannylo-gaivota/nest-base
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage-
